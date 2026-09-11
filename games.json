@@ -2,25 +2,25 @@
   {
     "name": "Communoploly",
     "link": "https://trazyntheinfinte.github.io/Comunopoly/",
-    "description": "",
-    "thumbnail": "",
+    "description": "Monopoly with a comunist twist",
+    "thumbnail": "comunopoly.jpg",
     "tags": [],
-    "status": ""
+    "status": "live"
   },
   {
     "name": "Dr.Brights Monopoly",
     "link": "https://trazyntheinfinte.github.io/Dr.-Bright-s-Monopoly/",
-    "description": "",
-    "thumbnail": "",
+    "description": "Monopoly but with a chaotic scp twist, prepare to run",
+    "thumbnail": "Bright's_monopoly.jpg",
     "tags": [],
-    "status": ""
+    "status": "live"
   },
   {
     "name": "Site 19 Tau-5 Protocol",
     "link": "https://site-19-tau5.web.app",
-    "description": "",
-    "thumbnail": "",
+    "description": "Protect the site from the chaos insurgent spies and the Serpants hand infiltrators",
+    "thumbnail": "site19.jpg",
     "tags": [],
-    "status": ""
+    "status": "prototype"
   }
 ]

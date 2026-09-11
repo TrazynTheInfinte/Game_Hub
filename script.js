@@ -11,7 +11,7 @@ function renderCard(game) {
   thumb.className = "game-thumb";
   if (game.thumbnail) {
     const img = document.createElement("img");
-    img.src = game.thumbnail;
+    img.src = `thumbnails/${game.thumbnail}`;
     img.alt = "";
     thumb.appendChild(img);
   } else {
